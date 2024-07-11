@@ -1062,7 +1062,6 @@
 127.0.0.1 codigoplaybluetv.com.br
 127.0.0.1 codigostvexpress.com.br
 127.0.0.1 codigotvexpress2020.com.br
-127.0.0.1 com.br
 127.0.0.1 comando.la
 127.0.0.1 comando.to
 127.0.0.1 comando.top
